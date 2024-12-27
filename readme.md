@@ -14,4 +14,4 @@ Dosen	: Rizky Tahara Shita, S.Kom., M.Kom.
 5. Database Name = librarydb
    
 ## Note
-1. Capture Postman terdapat pada file pdf UAS.
+1. Capture Postman terdapat pada file pdf UAS dan root folder project.
